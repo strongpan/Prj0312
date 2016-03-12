@@ -1,0 +1,21 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+div{
+
+    /*margin: 10px 20px 30px 40px;*/ /*top right bottom left*!*/
+
+    margin: 10px 20px 30px; /*top right bottom left=right*/
+
+    /*margin: 10px 20px;*/ /*top+bottom right+left*/
+
+    /*margin: 10px;*/   /*top = right = bottom = left*/
+
+    padding: 10px 20px 30px 40px; /*top right bottom left*/
+
+    border: 10px solid #f00;
+
+}
